@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KSRTC Automation Test Suite" duration-ms="122269" started-at="2019-05-31T16:50:04Z" finished-at="2019-05-31T16:52:06Z">
+    <groups>
+    </groups>
+    <test name="KSRTC Automation Test Cases" duration-ms="122269" started-at="2019-05-31T16:50:04Z" finished-at="2019-05-31T16:52:06Z">
+      <class name="com.ksrtc.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="7173" started-at="2019-05-31T16:50:04Z" finished-at="2019-05-31T16:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="homePageTitleTest" duration-ms="28" started-at="2019-05-31T16:50:11Z" finished-at="2019-05-31T16:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="767" started-at="2019-05-31T16:50:11Z" finished-at="2019-05-31T16:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="5522" started-at="2019-05-31T16:50:12Z" finished-at="2019-05-31T16:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageHeaderTest()[pri:2, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="homePageHeaderTest" duration-ms="68" started-at="2019-05-31T16:50:17Z" finished-at="2019-05-31T16:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="721" started-at="2019-05-31T16:50:17Z" finished-at="2019-05-31T16:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="5272" started-at="2019-05-31T16:50:18Z" finished-at="2019-05-31T16:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInLinkDisplayTest()[pri:3, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="signInLinkDisplayTest" duration-ms="60" started-at="2019-05-31T16:50:23Z" finished-at="2019-05-31T16:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="725" started-at="2019-05-31T16:50:23Z" finished-at="2019-05-31T16:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="5770" started-at="2019-05-31T16:50:24Z" finished-at="2019-05-31T16:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registrationLinkDisplayTest()[pri:4, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="registrationLinkDisplayTest" duration-ms="56" started-at="2019-05-31T16:50:30Z" finished-at="2019-05-31T16:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="725" started-at="2019-05-31T16:50:30Z" finished-at="2019-05-31T16:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="68077" started-at="2019-05-31T16:50:31Z" finished-at="2019-05-31T16:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="viewTicketLinkDisplayTest()[pri:5, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="viewTicketLinkDisplayTest" duration-ms="172" started-at="2019-05-31T16:51:39Z" finished-at="2019-05-31T16:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTicketLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="723" started-at="2019-05-31T16:51:39Z" finished-at="2019-05-31T16:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="5244" started-at="2019-05-31T16:51:40Z" finished-at="2019-05-31T16:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cancellationLinkDisplayTest()[pri:6, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="cancellationLinkDisplayTest" duration-ms="56" started-at="2019-05-31T16:51:45Z" finished-at="2019-05-31T16:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancellationLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="725" started-at="2019-05-31T16:51:45Z" finished-at="2019-05-31T16:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="setUp" is-config="true" duration-ms="19016" started-at="2019-05-31T16:51:46Z" finished-at="2019-05-31T16:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registrationLinkClickTest()[pri:7, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="registrationLinkClickTest" duration-ms="592" started-at="2019-05-31T16:52:05Z" finished-at="2019-05-31T16:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationLinkClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ksrtc.qa.testcases.HomePageTest@12cdcf4]" name="tearDown" is-config="true" duration-ms="725" started-at="2019-05-31T16:52:05Z" finished-at="2019-05-31T16:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ksrtc.qa.testcases.HomePageTest -->
+    </test> <!-- KSRTC Automation Test Cases -->
+  </suite> <!-- KSRTC Automation Test Suite -->
+</testng-results>
